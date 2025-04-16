@@ -4,8 +4,8 @@
 
 💻 Exploring software and competitive programming
 
-🌱 Learning Web Development, Java, and 
-DSA
+🌱 Learning Java, DSA and Web Development 
+
 
 🚀 Building projects, learning tech
 
