@@ -1,12 +1,3 @@
-👋 Hi, I’m Rishi
+Undergraduate student at NIT Surat (ECE), specializing in data structures and algorithms, web development, and artificial intelligence. Focused on building a strong technical foundation and contributing to impactful projects.
 
-🎓 2nd-year ECE student at NIT Surat
-
-💻 Exploring software and competitive programming
-
-🌱 Learning Java, DSA and Web Development 
-
-
-🚀 Building projects, learning tech
-
-📫 rishii8603@gmail.com
+Email: rishii8603@gmail.com
